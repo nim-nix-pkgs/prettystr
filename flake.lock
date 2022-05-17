@@ -44,11 +44,11 @@
       },
       "locked": {
         "dir": "main",
-        "lastModified": 1651918320,
-        "narHash": "sha256-NfLIRonzpVcWSycK4B1sNlVyO6bYyIVWGjS3wCrksIE=",
+        "lastModified": 1652391453,
+        "narHash": "sha256-WkWac0q3Uv86++pKe1m8TfUoB8yPOjxuhXKu1aPsv30=",
         "owner": "nim-nix-pkgs",
         "repo": "prettystr",
-        "rev": "2abefdb6f7e69ecdf16ee7820e0721d3fc48dbdd",
+        "rev": "ab8d62cda925f08293f714c63fd27c6a96eb557e",
         "type": "github"
       },
       "original": {
